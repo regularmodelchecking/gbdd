@@ -1,0 +1,10 @@
+GBDD is a meta package for BDDs, providing one interface to several
+BDD packages. It also provides an abstraction for representing relations
+over BDD based structures, allowing the user to ignore the variables
+allocated to each domain of the relation. 
+
+Documentation can be found in the docs directory.
+
+The homepage for GBDD can be found on http://www.regularmodelchecking.com.
+
+
